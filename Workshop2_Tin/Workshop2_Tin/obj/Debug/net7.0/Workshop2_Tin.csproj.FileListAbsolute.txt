@@ -1,0 +1,15 @@
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/Workshop2_Tin.csproj.AssemblyReference.cache
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/Workshop2_Tin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/Workshop2_Tin.AssemblyInfoInputs.cache
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/Workshop2_Tin.AssemblyInfo.cs
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/Workshop2_Tin.csproj.CoreCompileInputs.cache
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/bin/Debug/net7.0/Workshop2_Tin
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/bin/Debug/net7.0/Workshop2_Tin.deps.json
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/bin/Debug/net7.0/Workshop2_Tin.runtimeconfig.json
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/bin/Debug/net7.0/Workshop2_Tin.dll
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/bin/Debug/net7.0/Workshop2_Tin.pdb
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/Workshop2_Tin.dll
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/refint/Workshop2_Tin.dll
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/Workshop2_Tin.pdb
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/Workshop2_Tin.genruntimeconfig.cache
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop2_Tin/Workshop2_Tin/obj/Debug/net7.0/ref/Workshop2_Tin.dll

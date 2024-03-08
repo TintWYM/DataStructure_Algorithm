@@ -1,0 +1,5 @@
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop1_Tin/Workshop1_Tin/obj/Debug/net7.0/Workshop1_Tin.csproj.AssemblyReference.cache
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop1_Tin/Workshop1_Tin/obj/Debug/net7.0/Workshop1_Tin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop1_Tin/Workshop1_Tin/obj/Debug/net7.0/Workshop1_Tin.AssemblyInfoInputs.cache
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop1_Tin/Workshop1_Tin/obj/Debug/net7.0/Workshop1_Tin.AssemblyInfo.cs
+/Users/andrewchen/Projects/Data_Structure_&_Algorithms/Workshop1_Tin/Workshop1_Tin/obj/Debug/net7.0/Workshop1_Tin.csproj.CoreCompileInputs.cache
